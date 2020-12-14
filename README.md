@@ -14,3 +14,5 @@ Grupa studencka: WEL18DE1S1
 
 # Odpowiedzi do pytań z instrukcji
 ...
+3.2.2 W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba naciśnięć przekrosczy określoną ilość? 
+Odp: Definiujemy na nowo wartość graniczną w kodzie.
