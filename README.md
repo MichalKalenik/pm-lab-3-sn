@@ -16,3 +16,6 @@ Grupa studencka: WEL18DE1S1
 ...
 3.2.2 W jaki sposób można rozbudować funkcjonalność programu w przypadku gdy liczba naciśnięć przekrosczy określoną ilość? 
 Odp: Definiujemy na nowo wartość graniczną w kodzie.
+
+3.2.3 W jaki sposób można zwiększyć liczbę obsługiwanych poleceń oraz liczbę obługiwanych parametrów?
+Odp: W tym cele należałoby zwiększyć format ramki a co za tym idzie szybkość transmisji. 
